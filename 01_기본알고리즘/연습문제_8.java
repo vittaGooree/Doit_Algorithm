@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Test2 {
-
+	// 정수a, b를 포함하여 그 사이의 모든 정수의 총합을 구합니다
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		int a = s.nextInt();
